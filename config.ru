@@ -1,3 +1,3 @@
-require "./book_viewer"
+require "./book_viewer.rb"
 
 run Sinatra::Application
